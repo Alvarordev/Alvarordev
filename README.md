@@ -2,7 +2,7 @@
 
 ## Sobre mi 🧑🏼‍🚀
 
-Soy estudiante en Ciencias de la Computación y recientemente empecé el Bootcamp Full-Stack de [Undefined Academy](https://github.com/undefined-academy), Tengo 23 años y soy de Perú, pero resido actualmente en US. Me considero una persona autodidacta y me apasiona todo lo que relacionado a la tecnología.
+Soy estudiante en Ciencias de la Computación y recientemente empecé el Bootcamp Full-Stack de [Undefined Academy](https://github.com/undefined-academy), Tengo 23 años y soy de Perú. Me considero una persona autodidacta y me apasiona todo lo que relacionado a la tecnología.
 
 ## Mis Hobbies 👾
 
